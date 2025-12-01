@@ -1,0 +1,5 @@
+{
+  "name": "Dot matrix art generator",
+  "description": "A retro-industrial design tool for generating 1-bit dithered dot matrix art for thermal printing and labels. Features AI image generation.",
+  "requestFramePermissions": []
+}
